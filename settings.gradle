@@ -1,0 +1,1 @@
+include ':app', ':mandv', ':music', ':x86rvm', ':x86rvideo', ':x86rmusic',  ':ceshi',  ':armyvideo', ':x86yvideo', ':y46video', ':y39video', ':y39music', ':y39videoandmusic', ':y402video', ':y40video'

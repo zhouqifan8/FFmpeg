@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/armyvideo" />
+            <option value="$PROJECT_DIR$/ceshi" />
+            <option value="$PROJECT_DIR$/mandv" />
+            <option value="$PROJECT_DIR$/music" />
+            <option value="$PROJECT_DIR$/x86rmusic" />
+            <option value="$PROJECT_DIR$/x86rvideo" />
+            <option value="$PROJECT_DIR$/x86rvm" />
+            <option value="$PROJECT_DIR$/x86yvideo" />
+            <option value="$PROJECT_DIR$/y39music" />
+            <option value="$PROJECT_DIR$/y39video" />
+            <option value="$PROJECT_DIR$/y39videoandmusic" />
+            <option value="$PROJECT_DIR$/y402video" />
+            <option value="$PROJECT_DIR$/y40video" />
+            <option value="$PROJECT_DIR$/y46video" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
